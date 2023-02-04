@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "About Ericka"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Ericka Salas-Garcia is a Solution Engineer at Oracle. When not innovating on depths of technical solutions, Ericka enjoys spending time with Family, Friends and playing with her dog Milo.
