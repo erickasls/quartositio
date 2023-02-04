@@ -32,8 +32,8 @@ Pharmacy Technician + HS Diploma \| August 2014 - May 2018
 
 ## Experience
 
-Technical Solution Engineer \| Oracle \| July 2022 - present
+Technical Solution Engineer \@ Oracle \| July 2022 - present
 
-Data Engineer Intern \| USAA \| May 2021 - August 2021
+Data Engineer Intern \@ USAA \| May 2021 - August 2021
 
-Bioinformatics Undergraduate Researcher \| UT Dell Medical School \| August 2019 - August 2021
+Bioinformatics Undergraduate Researcher \@ UT Dell Medical School \| August 2019 - August 2021
